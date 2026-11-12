@@ -206,4 +206,4 @@ Amir Antivirus is the full free version with all features and updates included. 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-12 09:38:54 UTC
+**Last updated:** 2026-11-12 18:05:57 UTC
